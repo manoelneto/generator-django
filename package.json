@@ -1,0 +1,18 @@
+{
+  "name": "generator-django",
+  "version": "0.0.0",
+  "description": "My django restfull generator. Uses Django, backbone, django rest framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "*",
+    "underscore": "*",
+    "underscore.string": "*",
+    "generator-backbone": "*"
+  }
+}

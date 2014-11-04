@@ -1,0 +1,1 @@
+from <%= _.slugify(apps_path) %>.<%= _.slugify(name) %>.api_views import <%= _.classify(model) %>ViewSet

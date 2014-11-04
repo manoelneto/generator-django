@@ -1,0 +1,1 @@
+admin.site.register(<%= _.classify(model) %>, <%= _.classify(model) %>Admin)
